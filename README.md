@@ -1,1 +1,1 @@
-# myprojects
+# Simple projects for beginners
